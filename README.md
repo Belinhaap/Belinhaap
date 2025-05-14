@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Oii, eu sou a Isabelle!
 
-<!--
-**Belinhaap/Belinhaap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sou estudante do curso Técnico em Desenvolvimento de Sistemas no SENAI.  
+💻 Tenho 17 anos e estou aprendendo e me desenvolvendo como programador.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que estou aprendendo e praticando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- Java
+- Python
+
+## 🎯 Objetivos
+
+- Me aprofundar em desenvolvimento web e backend
+- Criar projetos que possam ajudar outras pessoas
+- Aprender boas práticas de programação e versionamento com Git/GitHub
+
+## 📫 Como me encontrar
+
+- Email: [i.pontes@aluno.senai.br]
+- GitHub: [github.com/Belinhaap]
+
+---
+
+✨ Obrigado por visitar meu perfil! Estou sempre aberto a aprender coisas novas e colaborar em projetos interessantes.
